@@ -9,10 +9,10 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * @author ：gong sun
- * @description: 点对点消息生产者
+ * @description: 消息生产者
  * @date ：Created in 2021/2/8 9:14 下午
  */
-public class Product {
+public class Producer {
 
     public static void main(String[] args) {
 
